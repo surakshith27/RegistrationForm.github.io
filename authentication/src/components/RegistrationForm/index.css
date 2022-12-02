@@ -1,0 +1,64 @@
+.regForm{
+    display: flexbox;
+    align-items: flex-start;
+    margin-left: 250px;
+    margin-right: 291px;
+    
+    
+}
+.heading{
+    padding-top: 146px;
+    padding-bottom: 12px;
+    margin: 0%;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+}
+.reg{
+    display: flex;
+    flex-direction: column;
+}
+.firstName{
+    width: 100%;
+}
+.form-control{
+    height: 71.99px;
+    border-color: #000000;
+    border-bottom: 1px solid #FFFFFF;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-style: Inter;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    outline: none;
+}
+.invalid{
+    display: block;
+    color: #FF4F4F;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    padding-top: 45.99px;
+    
+}
+.valid{
+    display: block;
+    color: #7ECD71;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    padding-top: 45.99px;
+    
+}    
+.Signup_button{
+    margin-top: 62px;
+    width: 226px;
+    height: 58px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-bottom: 256px;
+    text-decoration: none;
+}
